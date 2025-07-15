@@ -1,0 +1,18 @@
+[
+    {
+        "id": "3b75c61e-facd-4ccc-83f1-209edfc977fe",
+        "timestamp": "2025-06-18T06:55:01.338196",
+        "prompt": "Jelaskan konsep machine learning dalam satu paragraf singkat.",
+        "response": "Pembelajaran Mesin (Machine Learning) adalah konsep di mana komputer belajar dari data untuk mengidentifikasi pola-pola dan membuat prediksi atau keputusan, tanpa diprogram secara eksplisit untuk setiap tugas; intinya, sistem \"belajar\" dari pengalaman (data) dan meningkatkan kinerjanya seiring waktu.",
+        "status": "SUCCESS",
+        "metadata": {}
+    },
+    {
+        "id": "0e7f8a6a-a629-45e7-a516-32d97a5cdd21",
+        "timestamp": "2025-06-18T06:56:17.045231",
+        "prompt": "berapa jarak antara jarak dan surabaya",
+        "response": "Maaf, ada sedikit kebingungan dalam pertanyaan Anda.\n\n**\"Jarak\"** dalam bahasa Indonesia berarti **\"distance\"** atau **\"jarak\"** itu sendiri, bukan nama tempat.\n\nJadi, Anda menanyakan \"berapa jarak antara jarak (distance) dan Surabaya\"? Pertanyaan ini kurang tepat karena \"jarak\" (sebagai konsep) bukanlah sebuah lokasi geografis.\n\nMungkin Anda salah mengetik nama tempat? Bisakah Anda sebutkan nama tempat yang sebenarnya ingin Anda ketahui jaraknya dari Surabaya?\n\nBeberapa tempat yang sering ditanyakan jaraknya dari Surabaya antara lain:\n*   Sidoarjo\n*   Gresik\n*   Malang\n*   Mojokerto\n*   Jombang\n*   Yogyakarta\n*   Jakarta\n\nMohon perjelas nama tempatnya agar saya bisa memberikan informasi jarak yang akurat.",
+        "status": "SUCCESS",
+        "metadata": {}
+    }
+]
